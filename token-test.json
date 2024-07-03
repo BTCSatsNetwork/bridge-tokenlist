@@ -1,0 +1,115 @@
+{
+    "name": "Bevm Bridge Token List(Test)",
+    "keywords": [
+      "Bevm",
+      "BTC",
+      "Ethereum",
+      "BTCLayer2",
+      "tokenlist",
+      "Optimism",
+      "Arbitrum"
+    ],
+    "tokens": [
+      {
+        "chainId": 11501,
+        "address": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
+        "type": "RUNES" ,
+        "name": "ORDINALS•RUNES",
+        "symbol": "ORDINALS•RU",
+        "decimals": 0,
+        "logoURI": ""
+      },
+      {
+        "chainId": 11501,
+        "address": "0x88290434e8F5a2Fd3Dc3ef31A1bEF19d74372C24",
+        "type": "BRC20" ,
+        "name": "Bridged BRC20 SATS",
+        "symbol": "SATS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/sats.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0xe3D7fd661Eb7A141fC485E4f2679995e4fEf0298",
+        "type": "BRC20" ,
+        "name": "Bridged BRC20 ORDI",
+        "symbol": "ORDI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/ordi.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0x0AE14249b5CD93d63BE2F0394A377F244fB06f9D",
+        "type": "BRC20" ,
+        "name": "Bridged BRC20 RATS",
+        "symbol": "RATS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/rats.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0x50D38DB58f494ded068e4B0c051449fa012e5BB4",
+        "type": "BRC20" ,
+        "name": "Bridged BRC20 BTCS",
+        "symbol": "BTCS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/btcs.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0x00D13C732e73Da7D1376f84cd2D0FeF9E792b4e7",
+        "type": "BRC20" ,
+        "name": "Bridged BRC20 AINN",
+        "symbol": "AINN",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/ainn.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0x8d6F6210EdA57cE98f8293cEbCfe0f730e142895",
+        "type": "RUNES" ,
+        "name": "Bridged Runes DOG•GO•TO•THE•MOON",
+        "symbol": "🐕",
+        "decimals": 5,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/dm.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0xdab0d843d8e6369930920d6356E7FB16Bf54f611",
+        "type": "RUNES" ,
+        "name": "Bridged Runes UNCOMMON•GOODS",
+        "symbol": "⧉",
+        "decimals": 0,
+        "logoURI": ""
+      },
+      {
+        "chainId": 11501,
+        "address": "0x2A9AF616b6D57d50Dd93A410FA64055EE03198d7",
+        "type": "RUNES" ,
+        "name": "Bridged Runes SATOSHI•NAKAMOTO",
+        "symbol": "丰",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/sn.png"
+      },
+
+      {
+        "chainId": 11503,
+        "address": "0xe22550E36f34D80328E8BA531f9eEa6eF262dE7B",
+        "type": "TOKEN" ,
+        "name": "Bridged USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+      },
+      {
+        "chainId": 11155111,
+        "address": "0xBB495034bCfdF342dAfF29441C5131B69f759eb5",
+        "type": "TOKEN" ,
+        "name": "Bridged USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+      }
+   ]
+  }
+  
