@@ -102,6 +102,15 @@
         "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
       },
       {
+        "chainId": 11503,
+        "address": "0xe7cc125efFf29707Db90cA5c1931047C56EebB54",
+        "type": "TOKEN" ,
+        "name": "Bridged ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+      },
+      {
         "chainId": 11155111,
         "address": "0xBB495034bCfdF342dAfF29441C5131B69f759eb5",
         "type": "TOKEN" ,
