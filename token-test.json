@@ -108,7 +108,7 @@
         "name": "Bridged ETH",
         "symbol": "ETH",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/eth.svg"
       },
       {
         "chainId": 11155111,
