@@ -107,7 +107,7 @@
         "name": "Bridged Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdt.svg"
       },
       {
         "chainId": 11501,
@@ -134,7 +134,7 @@
         "name": "Ethereum Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdt.svg"
       },
 
 
