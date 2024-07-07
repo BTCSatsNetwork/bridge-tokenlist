@@ -12,15 +12,6 @@
     "tokens": [
       {
         "chainId": 11501,
-        "address": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
-        "type": "RUNES" ,
-        "name": "ORDINALS•RUNES",
-        "symbol": "ORDINALS•RU",
-        "decimals": 0,
-        "logoURI": ""
-      },
-      {
-        "chainId": 11501,
         "address": "0x88290434e8F5a2Fd3Dc3ef31A1bEF19d74372C24",
         "type": "BRC20" ,
         "name": "Bridged BRC20 SATS",
@@ -63,6 +54,15 @@
         "symbol": "AINN",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/ainn.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
+        "type": "RUNES" ,
+        "name": "ORDINALS•RUNES",
+        "symbol": "ORDINALS•RU",
+        "decimals": 0,
+        "logoURI": ""
       },
       {
         "chainId": 11501,
