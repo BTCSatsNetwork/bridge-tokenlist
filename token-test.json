@@ -91,6 +91,52 @@
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/sn.png"
       },
+      {
+        "chainId": 11501,
+        "address": "0x915247bf09471922e2c6da6f69fc9114708e8a26",
+        "type": "TOKEN" ,
+        "name": "Bridged USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+      },
+      {
+        "chainId": 11501,
+        "address": "0xa67ed736649f2958a35fd249a584151056b4b745",
+        "type": "TOKEN" ,
+        "name": "Bridged Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+      },
+      {
+        "chainId": 11501,
+        "address": "0x948def74953a18ebd854a5b015f63b0910be58cc",
+        "type": "TOKEN" ,
+        "name": "Bridged Ethereum Token",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/eth.svg"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "type": "TOKEN" ,
+        "name": "Ethereum USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "type": "TOKEN" ,
+        "name": "Ethereum Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+      },
+
 
       {
         "chainId": 11503,
